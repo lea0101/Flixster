@@ -1,4 +1,4 @@
-# Project 2 - *Flixter*
+# Project 2 - *Flixster*
 
 Submitted by: **Leanne Alsatie**
 
